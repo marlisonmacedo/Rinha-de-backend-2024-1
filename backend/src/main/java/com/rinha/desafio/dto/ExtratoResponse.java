@@ -1,4 +1,4 @@
-package com.softplan.desafio.dto;
+package com.rinha.desafio.dto;
 
 import java.time.ZonedDateTime;
 import java.util.List;

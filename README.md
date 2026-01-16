@@ -208,7 +208,7 @@ npm start
 ├── backend/                          # Backend Java Spring Boot
 │   ├── src/
 │   │   └── main/
-│   │       ├── java/com/softplan/desafio/
+│   │       ├── java/com/rinha/desafio/
 │   │       │   ├── controller/       # Controllers REST
 │   │       │   ├── dto/              # Data Transfer Objects
 │   │       │   ├── model/            # Entidades JPA

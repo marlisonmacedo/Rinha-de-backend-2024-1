@@ -1,4 +1,4 @@
-package com.softplan.desafio.dto;
+package com.rinha.desafio.dto;
 
 public class TransacaoResponse {
     

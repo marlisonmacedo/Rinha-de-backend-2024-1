@@ -1,6 +1,6 @@
-package com.softplan.desafio.repository;
+package com.rinha.desafio.repository;
 
-import com.softplan.desafio.model.Cliente;
+import com.rinha.desafio.model.Cliente;
 import jakarta.persistence.LockModeType;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Lock;

@@ -1,12 +1,12 @@
-package com.softplan.desafio.service;
+package com.rinha.desafio.service;
 
-import com.softplan.desafio.dto.ExtratoResponse;
-import com.softplan.desafio.dto.TransacaoRequest;
-import com.softplan.desafio.dto.TransacaoResponse;
-import com.softplan.desafio.model.Cliente;
-import com.softplan.desafio.model.Transacao;
-import com.softplan.desafio.repository.ClienteRepository;
-import com.softplan.desafio.repository.TransacaoRepository;
+import com.rinha.desafio.dto.ExtratoResponse;
+import com.rinha.desafio.dto.TransacaoRequest;
+import com.rinha.desafio.dto.TransacaoResponse;
+import com.rinha.desafio.model.Cliente;
+import com.rinha.desafio.model.Transacao;
+import com.rinha.desafio.repository.ClienteRepository;
+import com.rinha.desafio.repository.TransacaoRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

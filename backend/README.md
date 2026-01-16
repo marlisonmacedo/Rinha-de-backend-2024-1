@@ -17,7 +17,7 @@ Backend da aplicação desenvolvido em Java com Spring Boot.
 backend/
 ├── src/
 │   └── main/
-│       ├── java/com/softplan/desafio/
+│       ├── java/com/rinha/desafio/
 │       │   ├── controller/      # REST Controllers
 │       │   ├── dto/             # Data Transfer Objects
 │       │   ├── model/           # Entidades JPA

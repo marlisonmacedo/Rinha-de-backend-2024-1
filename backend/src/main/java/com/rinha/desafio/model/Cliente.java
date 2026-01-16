@@ -1,4 +1,4 @@
-package com.softplan.desafio.model;
+package com.rinha.desafio.model;
 
 import jakarta.persistence.*;
 

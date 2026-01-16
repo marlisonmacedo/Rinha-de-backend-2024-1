@@ -1,9 +1,9 @@
-package com.softplan.desafio.controller;
+package com.rinha.desafio.controller;
 
-import com.softplan.desafio.dto.ExtratoResponse;
-import com.softplan.desafio.dto.TransacaoRequest;
-import com.softplan.desafio.dto.TransacaoResponse;
-import com.softplan.desafio.service.ClienteService;
+import com.rinha.desafio.dto.ExtratoResponse;
+import com.rinha.desafio.dto.TransacaoRequest;
+import com.rinha.desafio.dto.TransacaoResponse;
+import com.rinha.desafio.service.ClienteService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

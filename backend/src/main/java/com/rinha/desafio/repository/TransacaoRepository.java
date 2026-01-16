@@ -1,6 +1,6 @@
-package com.softplan.desafio.repository;
+package com.rinha.desafio.repository;
 
-import com.softplan.desafio.model.Transacao;
+import com.rinha.desafio.model.Transacao;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

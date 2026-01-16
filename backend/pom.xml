@@ -12,7 +12,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.softplan</groupId>
+    <groupId>com.rinha</groupId>
     <artifactId>desafio-backend</artifactId>
     <version>1.0.0</version>
     <name>Rinha de backend 2024/1</name>

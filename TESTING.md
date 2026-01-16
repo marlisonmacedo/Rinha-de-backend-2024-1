@@ -1,4 +1,4 @@
-# Guia de Teste - Desafio Técnico Softplan
+# Guia de Teste - Rinha de Backend 2024/1
 
 ## 🧪 Como Testar a Aplicação
 
@@ -119,7 +119,7 @@ curl -i -X POST http://localhost:9999/clientes/1/transacoes \
 
 2. **Baixe os arquivos de teste do repositório do desafio**:
    ```bash
-   git clone https://gitlab.com/softplan9511014/desafio-tecnico.git temp-test
+   git clone https://github.com/marlisonmacedo/Rinha-de-backend-2024-1.git temp-test
    cp -r temp-test/load-test ./
    rm -rf temp-test
    ```
