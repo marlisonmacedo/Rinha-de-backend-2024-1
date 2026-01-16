@@ -1,0 +1,24 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 5px ;
+
+}
+
+nav a:hover{
+    color: rgb(234, 234, 238);
+    border-bottom: 2px solid blue;
+}
+
+.active{
+    background-color: brown;
+    color: rgb(0, 0, 16);
+    border-bottom: 2px solid blue;
+}
