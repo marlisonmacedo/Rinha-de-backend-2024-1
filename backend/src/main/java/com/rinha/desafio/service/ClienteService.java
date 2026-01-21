@@ -14,6 +14,10 @@ import java.time.ZonedDateTime;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * Service (Model) - Responsável pela lógica de negócio
+ * Camada de Model na arquitetura MVC
+ */
 @Service
 public class ClienteService {
     

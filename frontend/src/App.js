@@ -1,4 +1,3 @@
-
 import './App.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
@@ -8,7 +7,7 @@ import Home from './pages/home';
 import About from './pages/about';
 import Transacoes from './pages/Transacoes';
 import Extrato from './pages/Extrato';
-import Navbar from './componets/Navbar';
+import Navbar from './components/Navbar';
 
 const theme = createTheme({
   palette: {
